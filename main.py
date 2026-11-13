@@ -1,1 +1,171 @@
-import lzma,base64;exec(lzma.decompress(base64.b85decode("""T>t<81poj4|NsC0{{S?bN@uuIJaga{C5>gIEm~QX4}Cx&Wiex$3yu^1)Eo!id~BikFELUk!+`X}+SfK&C%!J>?&$XfXij>F(j4gumy#XrAHgL8NP=@fUCyRHeoH$le>5B@7-~e`r>|>X*tu~$eu<I)zSuf}7$V3ft9v%&gL>h5Epb~+dj3EtyD^UvvC?UYBfd@ztqfxGZLrNrz(A7w)Qus6GmQU(B~`2S_76Dq7z1^Nx+Y5VBn4tm(^gzE<SjO459lYq`9Mcj^!x+bJHG74z`=&Mzty?`i+DtbsJsI>+UtMv;t9$b5D9P0u8g#Fywva@ZvuZBceKqybU*8w_VxgVH&z*Dh+|@ZEa;YgqU~P!9Dk_}NH`e&ep<%_SKipGhlng|7jxY7qu9oO1eGOidLRpd>;0J%dJ!)18~V5(oq3y-?r~F3VCq51c)H74EnWa5QtP|oB@T~o_S$^&Ro9EeC4%;@Nr}TkQ$BBTk@~eLmz&Q_KFmxXv|h?1w323g2g}?EV&?W<3J-23Ql&mgUf|^KqkZQustz7sZeuAv+S$U&Kao5u8q+hv$w$m7Q!~$dk5C;jl<V~M+|FLYl3vI5O5|jvf+MS+3wQb)YRgcczTkS+9$lai!a~5#ByQvn%6DG9G&Ecqq4CywR&y`|AXC2pPC9C>Zg+|3T;Td^dj3L>j@0+wUR1rIve_Fa<%wEg0=kB!s`8J#*H#xD&j?#_@_V#BXZa@=s-XH1Qle2C8o$$ed3jx|AE^S_JncvRc9m_p6R`_Wjdv+0<owfnxa3>c=)`+bwNR<PD*)VK+;-$%g~$uPH&6?@ucsK7J^1XAdp%X{a%YejX8}LS8eVs;p#I!(RKeFq><*8tM0X;dfi<K!C2J~5g;v2_!;o4^Ay)y+m+$A;)0610#ClsGS3nYex%iB`PbBC9Ov@QYpLGv~|76PiKDqU=^tuJmU%!GhONa}rT=(LoenC3f09Nko+$~mP=Y^o=HEGpeS?-^kq?wlPo9?K`rX^sP+X==>*m=VSJ<QafMm+b2hbCC#U0uB)-Kl)q(uv5uBVO+H&`>duTQMw1)vQmr3LV81?B`EAUi&JPoq8<^OZphwFz9<1j>$IeAGv0~cGv@~6$e0>kl%H>)zZ_es?Qe6rR9C{j@qFbtGcGo801k%nKoJ1GqPUDFvUc}s2jWMS<lESg2Vx9*>Xm0{egySIg2^x=jG{n)xtkapTJsPYfu519mrsjI%+Fc8QXv^2soki=TS?Z(g&HIlnO#62g>j-aVhTtKt=J35JH+B{$~~}#X~YXvkF*lQjXYJ?deD4WCq-u193WoV~k9d&a9>2UQE#O;~l;Ml8G5<kZ}4Nq$(pM!l%dNRRlW{1_F=}Nnhy{mcM{UaeEU^+zACWetY#9cgpO!S^6;P5;*(1g_OL6#R<u|x_Xopaf)^v>lQYA!M0}U29W;d65a8(nZ$*t#5HB)Nm||&&q1EIIuhk*-tw{ZMZS6^u>Duqj`CWpAVy}qQ-QbUk#ykh^(M_;NQ%vl2i2x;V$4&v-V1i$Zo8&u4R=-gDq)NSsm``%JpN^KvD!O|ThT9EE06kxX~>v8mI1ZF<z(=X!Y4Q!$;2_lr#5N*B)x%jqdh>}Hr+~J8ZpOVou1>W*6WY2{Z^g?tsq%1-Nyk<h3i+5NF19dvZ9fMLg@}>DV+qd_SPs;-Y5uSXFr(*@N-L;cL=|p-BJGi6xvVJ<b|1)pJImivE8=@MQTz}D}>J4NZDxav2S*>+Gg_o2}vg_bq+${e?5cLLnPHGw^i8ISx=}KY$UJqB!8j4C>$~3K7Gl>)kuzOpao@d(x!Ka;{97&5Am#%yQc#Bj$HJ(2{KoR$j{jU98dr_00O2vLPh;7N1fJ$l;fR&ZeMIO2Gn&#fd_m5G41b>V!5%!H5&bW{bmzPUhz&Rytii9LoZcXL~G@;=|1r3-jDPb)u7}S=M2p@*C6o^%@scbg|AnHut2_%YaFAc9;7Cl3A$DEX@r~`HCx?Eye-C8+@>rS%HT9{yQqlUP<yUD;R24`Bwc6rX$4m;Y+$EDG*~AGa#peC^f~nh#HNORZ9IQ}F}$uqF2$qDsU?57p$-emHAJ>y2~uzx>OCseDim^mo1QnpoOGxF6aD1T<ubdWLscVUsU@vcNuA>-&g*4Y?i=}CToLBi3S~iOb%7Wnjow9@J?x^_T@0YJ@MGD-b-yjF9Hfu>)fl8|NV>*`lk~5!A<hz-1hYq<Gz`xm{g^au`K*7>?`uTR#ET`RX`KjsQ+_sp5s{)P&7c;+f;Q0?aQ>Tv9UeBz{GsEKrE9|Rhi?lx#Xvr&%+Tj?qKL&NuTx)8dq!ENXbuhWeiG&l<N>`qWv+Ur3o}O|+V?d7^=U;!7KtC1;;?<;Km+d!5rsayQIMXTh%brWK@8{7zp5e&i`CQ~6>=1RAmHPX8Ixpu(D>s}ewnzXMs?#XK}X~uqW&TF>}|RY<`EIyi%j(cEa_~N_DU1oxQ49-xbGD%aV;d8F_oX1s<|(l01qqKQ7J9Zax!}GK<6cBu5kb;btlqLhu^tl?-)r^Gr~^6Hr;xn#b+;4QG&yGP$dzG3eQ9p7rnQ<)ZH|*&%*1b)0a;U{)hmA*hmrglW2M}#I<AzLp=P51ioOYOgKbfSNO2^ld(9>Y9t+58}~MX<kNKLkQh5ko1PX5cUYmK4xnMH)lQdhe!k&Yc?;!tNgaUsF){6Br1aP3Yw8$9jLmt@&K<|n_EUvc?+g6n(yfEf$8JPd3g)e|igedTTM?LiWt1`({zOn%b8X6nk_%-m)r14!qlA$4BnLmr&|VbW5>NqbbGB10x+gzd5`LpWm>bk5%hx8KP$cZ796!xRFR#PUrJgGu>iYX4EDHXoW`3l`Wk@zk&G&2Sfkvq<U?B4~WLVxHdLx!zcG+TEpL$rSBRAB3gWc_la1M5iQQDLzbAl`L=ku$Y@=aLPmh|Qe>y2fmNio*RwqyCyYj#H!-c0AYtNEy5sKAWgWU(r<fc;?A;Hr=Ads4<=`Oen*oz62!!BX!&1Cj4&3JoRaDp=ay=Y1mGQF45jigxYFkMN;K;n?wM@J=u2!RSgRH)%+@(%Pq19sRMxpCs-3U#eD96@%Yx1vOj!zG8exZ`A`qr*`QX8~iOxiK7-f&w@C1=Lxw%#(>{3DH4m~5_6l~e17jTEE{u>NNrL`_6-iuJO=8m&_`<Vyq_yU!;P9E+yBYIDo|apu3NAp{!s>mm?W_%3V|5adc93P8RGA|^6|q(_uBuaT&fVb@j1i2o7g8j^q2J6d30WA;XQrG7>Rot!#P2^us4C_n$}bvc*WyCBR0?q(?Mc2ZBVzGeq*p|gTL___Xk%OhG<4tS~}Pzu;!dYQ7s6g7Oy)1w?9^W@|G*2U)Rv=j=HDebYue}NVH@M0iy3G>tEnP8p9sujgv3pCi0vEO}<G#huvWc49h)n7YyyhRm;zf9H{{SJp_XVvkbIq6@`%*Rc(zvPTf2XT1WeJ(JU=E&jb{JLUwd<7=$HkytqP`@Z>9&?uopyK8+wqFp9BBPKS^Nw#=Rbhv7BcK#9i`*p@wu^h{8lD~9eHb6P{i_09VQ&YUOhe*`Z>r{_g)!P;w-G^LZk^2%imZac_;MpbIlpkXz6!v1K2LSm3K55dgBMi4J|BjZ^>8EP@GH|YC)g*g(^QUyjyCFjf4%kJwC)rFitK5~G?3z6O3GSH?kSGDsESkbGktb9QfH#2edB;Um9D$kG*D1Eg1WsB~@bX^UYhj^K(RGGVRtBaD5V7d8sLq{o@lW^z<(tdEg`iO8k8|K=&$HHL&&z;j&5y4SYItE}PBp{$)kMt+PV0C$_C#Zus=(L>?EZc{YT!||v8?h6$P!SIhkSkX_bwLphse@tTKq+0(zUk@x17wH9WdqJHPS}CWt%wh3Npjy3KZ8=Nip6EC*y=|I=h<;Px6K51Di$Zn$538j{G^d+{s;UwINicFe}aKUJ;;s(0JvDY?fRzDUVRXmY)`zS|NZvu`v""")))
+import json as j,os,urllib.request as u
+U=os.environ["MAKEFUN_ENV_URL"]
+def post(p,d):
+ with u.urlopen(U+p,j.dumps(d).encode())as f:return j.load(f)
+A="abcdefgh"
+PC="PNBRQKpnbrqk"
+M=[0,100,320,330,500,900,0]
+T=["a"*32,"aaaabcc]b`_aaaaebbcfccegkkkkaaaa","WY[[Y]ab[bcd[ade[bde[acdY]aaWY[[","]____baa_ccc_acc_bbc_abc_aaa]___","aaab`aaa`aaa`aaa`aaa`aaabcccaaaa","]__`_aba_bbbaabb`abb_abb_aaa]__`","egcaeeaa_]]]][[Y[YYW[YYW[YYW[YYW"]
+W=[[M[a]+(ord(T[a][r*4+min(f,7-f)])-97)*5 for r in range(8)for f in range(8)]for a in range(7)]
+KD=(-17,-16,-15,-1,1,15,16,17)
+ND=(-33,-31,-18,-14,14,18,31,33)
+BD=(-17,-15,15,17)
+RD=(-16,-1,1,16)
+C=[15]*128
+C[0],C[7],C[112],C[119]=13,14,7,11
+b=[0]*128
+K={1:4,-1:116}
+D=Exception
+KL=[0]*128
+def parse(f):
+ global turn,cast,ep
+ p=f.split()
+ b[:]=[0]*128
+ s=112
+ for ch in p[0]:
+  if ch=="/":s-=24
+  elif ch.isdigit():s+=int(ch)
+  else:
+   j=PC.index(ch)
+   b[s]=j+1 if j<6 else 5-j
+   if j in(5,11):K[1 if j==5 else-1]=s
+   s+=1
+ turn=2*(p[1]=="w")-1
+ cast=sum(1<<i for i in range(4)if "KQkq"[i]in p[2])
+ ep=ord(p[3][0])-97+(int(p[3][1])-1)*16 if p[3]!="-" else-1
+def atk(s,y):
+ for t in(s-17*y,s-15*y):
+  if not t&136 and b[t]==y:return 1
+ for o in ND+KD:
+  t=s+o
+  if not t&136 and b[t]==(2*y if o in ND else 6*y):return 1
+ for o in BD+RD:
+  t=s+o
+  while not t&136 and not b[t]:t+=o
+  if not t&136 and b[t] in(5*y,3*y if o in BD else 4*y):return 1
+ return 0
+def gen():
+ m=[]
+ ap=m.append
+ R=6 if turn>0 else 1
+ for s in range(128):
+  p=b[s]
+  if p*turn<=0:continue
+  a=p if p>0 else -p
+  if a==1:
+   d=16*turn
+   q=5 if(s>>4)==R else 0
+   t=s+d
+   if not b[t]:
+    ap((s,t,q))
+    if(s>>4)==7-R and not b[s+2*d]:ap((s,s+2*d,0))
+   for o in(-1,1):
+    t=s+d+o
+    if t&136:continue
+    if b[t]*turn<0 or t==ep:ap((s,t,q))
+  else:
+   for o in(ND,BD,RD,BD+RD,KD)[a-2]:
+    t=s+o
+    while not t&136 and b[t]*turn<=0:
+     ap((s,t,0))
+     if b[t]or a%4==2:break
+     t+=o
+ z=4 if turn>0 else 116
+ for H,E,G in(((1 if turn>0 else 4),1,3),((2 if turn>0 else 8),-1,-4)):
+  if cast&H and b[z+G]==4*turn and all(not b[z+i*E]for i in(1,2,3)if E<0 or i<3)and all(not atk(z+i*E,-turn)for i in(0,1,2)):ap((z,z+2*E,0))
+ return m
+def make(mv):
+ global cast,ep,turn
+ f,t,pr=mv
+ p=b[f]
+ cap=b[t]
+ oc,oe,ep=cast,ep,-1
+ e=0
+ if p==turn:
+  if t==oe:
+   b[t-16*turn]=0
+   e=1
+  elif abs(t-f)==32:ep=f+16*turn
+ b[t]=pr*turn if pr else p
+ b[f]=0
+ if p==6*turn:
+  K[turn]=t
+  if abs(t-f)==2:
+   rf=t+1 if t>f else t-2
+   rt=(f+t)//2
+   b[rt]=b[rf]
+   b[rf]=0
+ nc=cast
+ if p==6*turn:nc&=12 if turn>0 else 3
+ nc&=C[f]&C[t]
+ cast=nc
+ turn=-turn
+ return(f,t,pr,cap,oc,oe,e)
+def unmake(u):
+ global cast,ep,turn
+ f,t,pr,cap,oc,oe,e=u
+ p=b[t]
+ turn=-turn
+ b[f]=turn if pr else p
+ b[t]=cap
+ if e:b[t-16*turn]=-turn
+ if p==6*turn:
+  K[turn]=f
+  if abs(t-f)==2:
+   rt=(f+t)//2
+   rf=t+1 if t>f else t-2
+   b[rf]=b[rt]
+   b[rt]=0
+ cast,ep=oc,oe
+def ev():
+ e=0
+ for s in range(128):
+  p=b[s]
+  if p:
+   i=s-(s>>4)*8
+   e+=W[p][i]if p>0 else-W[-p][i^56]
+ return e
+def sr(d,a,be,pl):
+ global N
+ N+=1
+ if N>1e5:raise D
+ q=not d and not atk(K[turn],-turn)
+ if q:
+  s=ev()*turn
+  if s>=be:return be
+  if s>a:a=s
+ ms=gen()
+ if q:ms=[m for m in ms if b[m[1]]or m[1]==ep]
+ ms.sort(key=lambda m:-(m==KL[pl])*9999-M[abs(b[m[1]])])
+ n=0
+ for m in ms:
+  u=make(m)
+  if atk(K[-turn],turn):
+   unmake(u)
+   continue
+  n+=1
+  v=-sr(max(d-1,0),-be,-a,pl+1)
+  unmake(u)
+  if v>=be:KL[pl]=m;return be
+  if v>a:a=v
+ if not n:return-99999+pl if atk(K[turn],-turn)else(d==0)*a
+ return a
+def choose(fen,legal):
+ parse(fen)
+ global N
+ N=0
+ ms=[(0,(ord(m[0])-97+(ord(m[1])-49<<4),ord(m[2])-97+(ord(m[3])-49<<4),PC.index(m[4])-5 if len(m)==5 else 0))for m in legal]
+ best=ms[0][1]
+ try:
+  for d in range(99):
+   sc=[]
+   for _,m in ms:
+    u=make(m);v=-sr(d-1,-10**9,10**9,1);unmake(u);sc.append((v,m))
+   sc.sort(reverse=True)
+   best=sc[0][1]
+   ms=sc
+ except D:pass
+ f,t,pr=best
+ return A[f&7]+str(f//16+1)+A[t&7]+str(t//16+1)+("nbrq"[pr-2]if pr else"")
+while(g:=post("/game",{}))["status"]!="done":
+ while g["status"]=="your_move":g=post("/move",{"game":g["game"],"move":choose(g["fen"],g["legal_moves"])})
